@@ -7,7 +7,7 @@ Measure angles using Arduino Uno R3 and MPU6050 with accelerometer Y and Z axis 
 
 ## Arduino, MPU6050 and 8-Digit 7 Segment Module Connections
 
-**Gyro Arduino UNO R3**
+**MPU6050 Gyro**
 
 *VCC:*  5V  
 *GND:*  GND  
