@@ -9,22 +9,18 @@ Measure angles using Arduino Uno R3 and MPU6050 with accelerometer Y and Z axis 
 
 **Gyro Arduino UNO R3**
 
-VCC  -  5V  
-GND  -  GND  
-SDA  -  A4  
-SCL  -  A5  
-INT - port-2  
+*VCC:*  5V  
+*GND:*  GND  
+*SDA:*  A4  
+*SCL:*  A5  
+*INT:* port-2  
 
 
 **8-Digit 7 Segment Module (MAX7219) [D066]**
 
-VCC: 5V
-
-GND: GND
-
-DIN: P00
-
-CS: P01
-
-CLK: P02
+*VCC:* 5V  
+*GND:* GND  
+*DIN:* P00  
+*CS:* P01  
+*CLK:* P02  
 
